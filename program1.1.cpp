@@ -9,9 +9,6 @@ void main() {
 	cout << "n: " << n << endl;
 	cout << "f: " << f << endl;
 
-    cout << "change test" << endl;
-
 	system("pause");
 	return;
 }
-//
